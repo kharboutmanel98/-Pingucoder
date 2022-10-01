@@ -1,0 +1,64 @@
+
+.principal{
+    width: 1000px;
+    margin: auto;
+}
+
+body{
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    position: relative;
+  
+}
+.nav{
+    float: right;
+    list-style: none;
+    margin-top: 10px;
+    padding-right: 10px;
+   
+}
+.nav li{
+    display: inline-block;
+ 
+}
+.nav li a {
+    padding: 5px 20px;
+    font-size: 14px;
+}
+
+.logo img{
+  width: 80px;
+  float: left;
+  padding-left: 1%;
+  padding-top: 1%;
+  filter: invert(1);
+
+}
+
+.content{
+    position: absolute;
+    margin: 20% 30%;
+    text-align: center;
+}
+.content h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin: auto;
+  
+   
+}
+.content p{
+    font-size: 20px;
+    font-style: bold;
+}
+.content a{
+    margin-inline: 10px;
+    text-transform: uppercase;
+}
+
+
+
+   
+
